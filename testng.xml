@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CalculatorAppAndroidTestAutomationSuite">
+    <listeners>
+        <listener class-name="listener.ExtentReportListener"/>
+    </listeners>
+    <test name="TestBasicCalculatorOperations">
+        <classes>
+            <class name="calculatorTest.TestCalculatorOperations"/>
+        </classes>
+    </test>
+</suite>

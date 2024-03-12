@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29a48e97-335c-4cd3-8eb2-5600263d6325" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Report/calculation-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/common_functions/CalculationOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/page/CalculatorPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/calculatorTest/TestCalculatorOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/listener/ExtentReportListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/apps/calculator-8-4-1.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2bcTZFU3oekmDILOOKI0AiukQ5j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/personal_projects/calculator-automation-appium&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.43678162&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\personal_projects\calculator-automation-appium\src\test" />
+      <recent name="D:\personal_projects\calculator-automation-appium\src\main\resources\apps" />
+      <recent name="D:\personal_projects\calculator-automation-appium\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCalculatorOperations.testDivisionOperation">
+    <configuration name="D:/personal_projects/calculator-automation-appium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="calculator-automation-appium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCalculatorOperations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="calculator-automation-appium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="calculatorTest.TestCalculatorOperations" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCalculatorOperations.testAdditionOperation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="calculator-automation-appium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculatorTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="calculatorTest.TestCalculatorOperations" />
+      <option name="METHOD_NAME" value="testAdditionOperation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCalculatorOperations.testCalculationOperations" type="TestNG" nameIsGenerated="true">
+      <module name="calculator-automation-appium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="calculatorTest.TestCalculatorOperations" />
+      <option name="METHOD_NAME" value="testCalculationOperations" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCalculatorOperations.testDivisionOperation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="calculator-automation-appium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculatorTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculatorTest" />
+      <option name="MAIN_CLASS_NAME" value="calculatorTest.TestCalculatorOperations" />
+      <option name="METHOD_NAME" value="testDivisionOperation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCalculatorOperations.testSubtractionOperation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="calculator-automation-appium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculatorTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculatorTest" />
+      <option name="MAIN_CLASS_NAME" value="calculatorTest.TestCalculatorOperations" />
+      <option name="METHOD_NAME" value="testSubtractionOperation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCalculatorOperations.testDivisionOperation" />
+        <item itemvalue="TestNG.TestCalculatorOperations.testAdditionOperation" />
+        <item itemvalue="TestNG.TestCalculatorOperations.testSubtractionOperation" />
+        <item itemvalue="TestNG.D:/personal_projects/calculator-automation-appium/testng.xml" />
+        <item itemvalue="TestNG.TestCalculatorOperations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29a48e97-335c-4cd3-8eb2-5600263d6325" name="Changes" comment="" />
+      <created>1706513422299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706513422299</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="11" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
